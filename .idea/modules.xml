@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaPlay.iml" filepath="$PROJECT_DIR$/.idea/JavaPlay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/misc/misc.iml" filepath="$PROJECT_DIR$/misc/misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memory-access-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/memory-access-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memory-access-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/memory-access-pattern_main.iml" group="memory-access-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memory-access-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/memory-access-pattern_test.iml" group="memory-access-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/misc.iml" filepath="$PROJECT_DIR$/.idea/modules/misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/misc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/misc_main.iml" group="misc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/misc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/misc_test.iml" group="misc" />
     </modules>
   </component>
 </project>
